@@ -8,8 +8,8 @@ Then, you can copy and paste this code into that README.md file and edit it.
 
 <!-- Introduction Section -->
 
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">A passionate [Your Title/Profession] from [Your Location]</h3>
+<h1 align="center">Hi 👋, I'm Daniel Baravik</h1>
+<h3 align="center">A passionate developer</h3>
 
 <!-- Waving Hand Animation -->
 
