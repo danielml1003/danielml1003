@@ -1,15 +1,8 @@
-<!--
-Hi there! This is a template for your GitHub profile README.
-To use this, go to your GitHub, create a new repository with the SAME name as your username.
-For example, if your username is "octocat", your repository should be named "octocat".
-Make sure it's a PUBLIC repository and initialize it with a README file.
-Then, you can copy and paste this code into that README.md file and edit it.
--->
-
 <!-- Introduction Section -->
+# Hi 👋, I'm Daniel Baravik
+## A passionate developer
 
-<h1 align="center">Hi 👋, I'm Daniel Baravik</h1>
-<h3 align="center">A passionate developer</h3>
+**'man'**
 
 <!-- Waving Hand Animation -->
 
