@@ -13,7 +13,7 @@
 <p align="center">
 <img src="https://www.google.com/search?q=https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="coding gif" width="400"/>
 </p>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieml1003)](https://github.com/anuraghazra/github-readme-stats)
 <!-- About Me Section -->
 
 <h3 align="left">A little bit about me...</h3>
