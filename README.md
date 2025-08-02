@@ -46,16 +46,12 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" alt="typescript" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="react" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" alt="python" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/3rCcV6sC1o2GY/giphy.gif" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/3rCcV6sC1o2GY/giphy.gif" alt="css3" width="40" height="40"/> </a>
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="sass" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" alt="figma" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="docker" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="git" width="40" height="40"/> </a>
-<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" alt="rust" width="40" height="40"/> </a>
-<a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" alt="java" width="40" height="40"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="django" width="40" height="40"/> </a>
+<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" alt="rust" width="40" height="40"/> </a>
+<a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/1UARfRI6X3W3e/giphy.gif" alt="java" width="40" height="40"/> </a>
 </p>
 
 <!-- GitHub Stats Section -->
