@@ -50,7 +50,7 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" alt="figma" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="docker" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="git" width="40" height="40"/> </a>
-<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" alt="rust" width="40" height="40"/> </a>
+<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F42774743%2FRustacean&psig=AOvVaw0j1djv7Fr68hPx3kAfFbpV&ust=1754259401667000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIj9jduT7Y4DFQAAAAAdAAAAABAE" alt="rust" width="40" height="40"/> </a>
 <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/1UARfRI6X3W3e/giphy.gif" alt="java" width="40" height="40"/> </a>
 </p>
 
