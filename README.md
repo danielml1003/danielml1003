@@ -18,15 +18,11 @@
 
 🌱 I’m currently learning **AI, Machine Learning, and Cloud Technologies**
 
-👯 I’m looking to collaborate on **Open Source Projects**
-
 🤔 I’m looking for help with **Scaling Applications**
 
 💬 Ask me about **Web Development, React, and Python**
 
-📫 How to reach me: **daniel.baravik@example.com**
-
-😄 Pronouns: **He/Him**
+📫 How to reach me: **danielbaravik1003@gmail.com**
 
 ⚡ Fun fact: **I love solving Rubik's cubes in under a minute!**
 </p>
