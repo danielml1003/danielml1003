@@ -1,9 +1,5 @@
-<!-- ========================================================= -->
-<!-- HERO / INTRO -->
-<!-- ========================================================= -->
 <div align="center">
   <picture>
-    <!-- (Optional) Add a lighter static fallback here if you have one -->
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Animated developer at workstation" />
   </picture>
   <h1>Hi, I'm <strong>Daniel Baravik</strong> 👋</h1>
@@ -15,7 +11,6 @@
   </p>
   <p><em>I build practical, user‑centric solutions and iterate fast. Focused on clean architecture, performance, and developer experience.</em></p>
   <p>
-    <!-- Small ambient GIF strip -->
     <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="90" alt="Terminal typing animation" />
     <img src="https://media.giphy.com/media/LeTDEozJwatZy/giphy.gif" width="90" alt="Rocket launch animation" />
     <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="90" alt="Cat coding animation" />
@@ -50,7 +45,8 @@
 I love taking ideas from 0 → 1 and then refining them with real user feedback. My approach blends product thinking with engineering discipline: ship early, observe, optimize. I value maintainability, observability, and strong DX.
 
 <div align="center">
-  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="260" alt="Loop of abstract code flowing" />
+  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="260" alt="Abstract code flowing" />
+  <img src="https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="220" alt="Neural network / machine learning animation" />
 </div>
 
 **Highlights:**
@@ -72,6 +68,11 @@ I love taking ideas from 0 → 1 and then refining them with real user feedback.
   <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="55" alt="Node.js" />
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="55" alt="Docker" />
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="55" alt="Git" />
+  <img src="https://media.giphy.com/media/jpmSER3HMnC2HlbMj3/giphy.gif" width="55" alt="Rust Ferris crab animation" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="240" alt="Data / machine learning visualization" />
 </div>
 
 | Category | Stack |
