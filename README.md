@@ -14,12 +14,21 @@
     <img src="https://img.shields.io/github/stars/danielml1003?style=social" alt="GitHub stars" />
   </p>
   <p><em>I build practical, user‑centric solutions and iterate fast. Focused on clean architecture, performance, and developer experience.</em></p>
+  <p>
+    <!-- Small ambient GIF strip -->
+    <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="90" alt="Terminal typing animation" />
+    <img src="https://media.giphy.com/media/LeTDEozJwatZy/giphy.gif" width="90" alt="Rocket launch animation" />
+    <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="90" alt="Cat coding animation" />
+  </p>
   <!-- Optional quick links (uncomment & fill) -->
   <p>
     <a href="YOUR_PORTFOLIO_URL">🌐 Portfolio (soon)</a> •
-    <a href="./Daniel%20Baravik%20-%20junior%20developer.pdf">📄 Resume (PDF)</a> •
+    <a href="./Daniel_Baravik_Resume.pdf">📄 Resume (PDF)</a> •
     <a href="mailto:danielbaravik1003@gmail.com">✉️ Email</a> •
     <a href="https://www.linkedin.com/in/daniel-baravik-429b38207" target="_blank">LinkedIn</a>
+  </p>
+  <p>
+    <a href="./Daniel_Baravik_Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-blue?logo=adobeacrobatreader&logoColor=white" alt="Resume badge" /></a>
   </p>
 </div>
 
@@ -40,6 +49,10 @@
 ## 🚀 About Me
 I love taking ideas from 0 → 1 and then refining them with real user feedback. My approach blends product thinking with engineering discipline: ship early, observe, optimize. I value maintainability, observability, and strong DX.
 
+<div align="center">
+  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="260" alt="Loop of abstract code flowing" />
+</div>
+
 **Highlights:**
 - Built a Rust + PostgreSQL ingestion pipeline (Shop Saver) handling thousands of grocery items per XML file.
 - Implemented real‑time watching + duplicate‑safe processing.
@@ -51,6 +64,15 @@ I love taking ideas from 0 → 1 and then refining them with real user feedback.
 ## 🧰 Tech & Tools
 <details open>
 <summary><strong>Languages, Frameworks & Platforms</strong></summary>
+
+<div align="center" style="margin:6px 0 14px;">
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="55" alt="JavaScript" />
+  <img src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="55" alt="TypeScript" />
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="55" alt="React" />
+  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="55" alt="Node.js" />
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="55" alt="Docker" />
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="55" alt="Git" />
+</div>
 
 | Category | Stack |
 |----------|-------|
