@@ -1,7 +1,9 @@
 <div align="center">
-  <picture>
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Animated developer at workstation" />
-  </picture>
+  <!-- Hero GIF (simplified: direct img for better reliability on GitHub) -->
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="Developer at workstation animation" />
+  <!-- If above fails to load for some users, you can swap to a different host:
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="360" alt="Coding terminal animation" />
+  -->
   <h1>Hi, I'm <strong>Daniel Baravik</strong> 👋</h1>
   <h3>Full‑stack developer • Problem solver • Lifelong learner</h3>
   <p>
