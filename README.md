@@ -14,17 +14,17 @@
   <p><em>I build practical, user‑centric solutions and iterate fast. Focused on clean architecture, performance, and developer experience.</em></p>
   <p>
     <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="90" alt="Terminal typing animation" />
-    <img src="https://media.giphy.com/media/LeTDEozJwatZy/giphy.gif" width="90" alt="Rocket launch animation" />
     <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="90" alt="Cat coding animation" />
   </p>
   <!-- Optional quick links (uncomment & fill) -->
   <p>
-    <a href="YOUR_PORTFOLIO_URL">🌐 Portfolio (soon)</a> •
+    <a href="https://danielml1003.github.io/portfolio/">🌐 Portfolio</a> •
     <a href="./Daniel_Baravik_Resume.pdf">📄 Resume (PDF)</a> •
     <a href="mailto:danielbaravik1003@gmail.com">✉️ Email</a> •
     <a href="https://www.linkedin.com/in/daniel-baravik-429b38207" target="_blank">LinkedIn</a>
   </p>
   <p>
+    <a href="https://danielml1003.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Online-brightgreen?logo=githubpages&logoColor=white" alt="Portfolio badge" /></a>
     <a href="./Daniel_Baravik_Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-blue?logo=adobeacrobatreader&logoColor=white" alt="Resume badge" /></a>
   </p>
 </div>
@@ -108,15 +108,14 @@ I love taking ideas from 0 → 1 and then refining them with real user feedback.
 | Music Genre Classification | (Early stage) ML exploration for classifying songs by genre. Will apply feature extraction (e.g., MFCC) + model benchmarking. | Python (Librosa, scikit-learn planned) | Foundation repo initialized; pipeline design in progress | [Repo](https://github.com/danielml1003/music-genre-classification) |
 | Checkers 1.0 (Android) | Custom‑drawn checkers board + basic piece interactions & local auth (SQLite) as an early Java/Android learning project. | Java (Android), SQLite | Built custom board & drag logic from scratch | [Repo](https://github.com/danielml1003/Checkers1.0) |
 
-👉 Next: Add live demo links (Vercel / Screenshots / GIFs) for stronger visual impact.
 
-### Portfolio (Coming Soon)
-I maintain a personal portfolio site (not yet public). Once deployed, I’ll link it above and include:
-- Interactive project galleries (with stack & architecture notes)
-- Lightweight blog / learning notes
-- Contact & availability status
+### Portfolio
+My portfolio is live here: https://danielml1003.github.io/portfolio/
 
-Planned deployment options: GitHub Pages (`username.github.io`) or Vercel for easier CI preview deployments.
+It includes:
+- Project gallery with brief context and links
+- Contact section and ways to reach me
+- A downloadable resume link
 
 <details>
 <summary><strong>Mini Case Study (Example)</strong></summary>
@@ -169,8 +168,6 @@ Reading (fiction + non‑fiction) • Puzzles & problem solving • Open source 
 ## 🤝 Connect
 <p>
   <a href="https://linkedin.com/in/daniel-baravik" target="_blank">LinkedIn</a> •
-  <a href="https://twitter.com/daniel_baravik" target="_blank">Twitter / X</a> •
-  <a href="https://dev.to/danielbaravik" target="_blank">Dev.to</a> •
   <a href="mailto:danielbaravik1003@gmail.com">Email</a>
 </p>
 
@@ -203,6 +200,6 @@ Always iterating. Always learning.
 
 ---
 
-<!-- TODO: Add live portfolio + resume URLs when published -->
+<!-- TODO: Add a small screenshot/GIF preview of the portfolio homepage -->
 
 <!-- Feel free to further slim or expand sections based on what resonates with recruiters / collaborators. -->
