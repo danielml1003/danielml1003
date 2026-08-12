@@ -1,205 +1,154 @@
 <div align="center">
-  <!-- Hero GIF (simplified: direct img for better reliability on GitHub) -->
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="Developer at workstation animation" />
-  <!-- If above fails to load for some users, you can swap to a different host:
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="360" alt="Coding terminal animation" />
-  -->
-  <h1>Hi, I'm <strong>Daniel Baravik</strong> 👋</h1>
-  <h3>Full‑stack developer • Problem solver • Lifelong learner</h3>
-  <p>
-    <a href="https://komarev.com/ghpvc/?username=danielml1003&label=Visitors&color=0e75b6&style=flat"><img src="https://komarev.com/ghpvc/?username=danielml1003&label=Visitors&color=0e75b6&style=flat" alt="profile views" /></a>
-    <img src="https://img.shields.io/github/followers/danielml1003?label=Followers&style=social" alt="GitHub followers" />
-    <img src="https://img.shields.io/github/stars/danielml1003?style=social" alt="GitHub stars" />
-  </p>
-  <p><em>I build practical, user‑centric solutions and iterate fast. Focused on clean architecture, performance, and developer experience.</em></p>
-  <p>
-    <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="90" alt="Terminal typing animation" />
-    <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="90" alt="Cat coding animation" />
-  </p>
-  <!-- Optional quick links (uncomment & fill) -->
-  <p>
-    <a href="https://danielml1003.github.io/portfolio/">🌐 Portfolio</a> •
-    <a href="./Daniel_Baravik_Resume.pdf">📄 Resume (PDF)</a> •
-    <a href="mailto:danielbaravik1003@gmail.com">✉️ Email</a> •
-    <a href="https://www.linkedin.com/in/daniel-baravik-429b38207" target="_blank">LinkedIn</a>
-  </p>
-  <p>
-    <a href="https://danielml1003.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Online-brightgreen?logo=githubpages&logoColor=white" alt="Portfolio badge" /></a>
-    <a href="./Daniel_Baravik_Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-blue?logo=adobeacrobatreader&logoColor=white" alt="Resume badge" /></a>
-  </p>
+
+# Hi, I'm Daniel Baravik 👋
+
+### Full-stack developer · Problem solver · Lifelong learner
+
+I build practical, user-centric products and iterate fast —<br/>
+with a focus on clean architecture, performance, and developer experience.
+
+<br/>
+
+<a href="https://danielml1003.github.io/portfolio/">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-1f6feb?style=for-the-badge&logoColor=white" alt="Portfolio" />
+</a>
+<a href="./Daniel_Baravik_Resume.pdf">
+  <img src="https://img.shields.io/badge/📄_Resume-2ea043?style=for-the-badge" alt="Resume" />
+</a>
+<a href="https://www.linkedin.com/in/daniel-baravik-429b38207">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==" alt="LinkedIn" />
+</a>
+<a href="mailto:danielbaravik1003@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=danielml1003&label=Profile+views&color=1f6feb&style=flat" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/danielml1003?label=Followers&style=flat&color=1f6feb" alt="GitHub followers" />
+
 </div>
 
----
-
-## 🔍 Snapshot
-
-| What I do | Summary |
-|-----------|---------|
-| 🧩 Core Focus | Full‑stack product engineering (React + Node.js + TypeScript) |
-| 🚀 Current Goal | Shipping production‑ready apps & deepening AI / data workflows |
-| 🛠️ Strengths | Scalable API design, DX tooling, code quality, rapid prototyping |
-| 🤝 Collaboration | Open to OSS, developer tooling, and data-driven product ideas |
-| 📚 Always Learning | AI agents, system design patterns, performance & observability |
-
----
+<br/>
 
 ## 🚀 About Me
-I love taking ideas from 0 → 1 and then refining them with real user feedback. My approach blends product thinking with engineering discipline: ship early, observe, optimize. I value maintainability, observability, and strong DX.
 
-<div align="center">
-  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="260" alt="Abstract code flowing" />
-  <img src="https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="220" alt="Neural network / machine learning animation" />
-</div>
+I love taking ideas from **0 → 1** and refining them with real user feedback. My approach blends product thinking with engineering discipline: **ship early, observe, optimize.**
 
-**Highlights:**
-- Built a Rust + PostgreSQL ingestion pipeline (Shop Saver) handling thousands of grocery items per XML file.
-- Implemented real‑time watching + duplicate‑safe processing.
-- Added structured logging & performance hooks for faster debugging.
-- Currently exploring AI agents + scalable backend patterns.
+- 🧩 **Core focus** — Full-stack product engineering with React, Node.js & TypeScript
+- ⚙️ **Recently built** — A Rust + PostgreSQL ingestion pipeline processing thousands of grocery items per XML file, with real-time file watching and duplicate-safe processing
+- 📚 **Currently learning** — AI agents, vector databases, system design & performance
+- 🤝 **Open to** — Open source, developer tooling, and data-driven product ideas
 
----
+<br/>
 
-## 🧰 Tech & Tools
-<details open>
-<summary><strong>Languages, Frameworks & Platforms</strong></summary>
+## 🧰 Tech Stack
 
-<div align="center" style="margin:6px 0 14px;">
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="55" alt="JavaScript" />
-  <img src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="55" alt="TypeScript" />
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="55" alt="React" />
-  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="55" alt="Node.js" />
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="55" alt="Docker" />
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="55" alt="Git" />
-  <img src="https://media.giphy.com/media/jpmSER3HMnC2HlbMj3/giphy.gif" width="55" alt="Rust Ferris crab animation" />
-</div>
+**Languages**
 
-<div align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="240" alt="Data / machine learning visualization" />
-</div>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-| Category | Stack |
-|----------|-------|
-| Frontend | React, TypeScript, (Next.js if needed), MUI, Tailwind / Styled Components |
-| Backend | Node.js (Express / Fastify), Rust (data processing), Python (prototyping) |
-| Data | PostgreSQL, SQLite, (Exploring Redis / vector stores) |
-| DevOps / Infra | Docker, Docker Compose, GitHub Actions, (Deploy: Vercel / Fly.io) |
-| Quality / DX | ESLint, Prettier, Jest, Pytest, tracing / structured logs |
-| Exploring | AI agents, Rust performance, scalable data ingestion |
+**Frontend**
 
-<!-- If you want to keep animated icons, you can reintroduce selectively -->
-</details>
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-<details>
-<summary><strong>Principles</strong></summary>
+**Backend & Data**
 
-- Readability over premature cleverness.
-- Incremental delivery & tight feedback loops.
-- Measure what matters (perf, error budgets, UX friction).
-- Automate repetitive tasks early.
-</details>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
----
+**DevOps & Tooling**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+
+<br/>
 
 ## 🌟 Featured Projects
 
-| Project | Brief | Stack | Highlight | Links |
-|---------|-------|-------|-----------|-------|
-| Shop Saver | Price comparison platform: Rust ingestion pipeline + React TS frontend for Israeli grocery data (Hebrew RTL). Real‑time XML → PostgreSQL processing. | Rust, React, TypeScript, PostgreSQL, Docker | 2,500+ items parsed per file with duplicate handling & live monitoring | [Repo](https://github.com/danielml1003/shop-saver) |
-| Music Genre Classification | (Early stage) ML exploration for classifying songs by genre. Will apply feature extraction (e.g., MFCC) + model benchmarking. | Python (Librosa, scikit-learn planned) | Foundation repo initialized; pipeline design in progress | [Repo](https://github.com/danielml1003/music-genre-classification) |
-| Checkers 1.0 (Android) | Custom‑drawn checkers board + basic piece interactions & local auth (SQLite) as an early Java/Android learning project. | Java (Android), SQLite | Built custom board & drag logic from scratch | [Repo](https://github.com/danielml1003/Checkers1.0) |
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">🛒 Shop Saver</h3>
+      <p align="center">
+        <a href="https://github.com/danielml1003/shop-saver"><strong>View Repo »</strong></a>
+      </p>
+      <p>Price-comparison platform for Israeli grocery data (Hebrew RTL). A Rust ingestion pipeline streams XML into PostgreSQL in real time — <strong>2,500+ items parsed per file</strong> with duplicate handling and live monitoring — served by a React + TypeScript frontend.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust" alt="Rust" />
+        <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🎵 Music Genre Classification</h3>
+      <p align="center">
+        <a href="https://github.com/danielml1003/music-genre-classification"><strong>View Repo »</strong></a>
+      </p>
+      <p>Machine-learning exploration for classifying songs by genre. Applying audio feature extraction (MFCC) and benchmarking models to find the best-performing pipeline. Early stage and evolving.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/-Librosa-4B32C3?style=flat-square" alt="Librosa" />
+        <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">♟️ Checkers 1.0</h3>
+      <p align="center">
+        <a href="https://github.com/danielml1003/Checkers1.0"><strong>View Repo »</strong></a>
+      </p>
+      <p>Android checkers game with a fully custom-drawn board, drag-and-drop piece interaction built from scratch, and local authentication backed by SQLite. An early Java/Android learning project.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
+        <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-
-### Portfolio
-My portfolio is live here: https://danielml1003.github.io/portfolio/
-
-It includes:
-- Project gallery with brief context and links
-- Contact section and ways to reach me
-- A downloadable resume link
-
-<details>
-<summary><strong>Mini Case Study (Example)</strong></summary>
-
-<strong>Context:</strong> Needed a performant API for real‑time updates.<br/>
-<strong>Action:</strong> Introduced websocket layer + caching + structured logs.<br/>
-<strong>Result:</strong> Latency ↓ 35%, error rate ↓ 70%, improved debugging speed.
-
-Customize this with your own story (problem → actions → measurable impact).
-</details>
-
----
-
-## 📊 Dev Metrics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danielml1003&show_icons=true&theme=dracula&rank_icon=github&count_private=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=danielml1003&theme=dracula" height="165" alt="GitHub streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielml1003&layout=compact&theme=dracula" height="165" alt="Top languages" />
-</div>
-
-<!-- Optional: GitHub activity graph or trophies -->
-<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danielml1003&theme=dracula" /> -->
-
----
-
-## 🧭 Current Focus
-| Area | Why |
-|------|-----|
-| AI + Agents | Leverage LLM tooling for automation & productivity |
-| Performance | Profiling & optimizing critical paths |
-| Clean Infra | Sustainable CI/CD & observability |
-
-**Learning Queue:** Vector DBs • Advanced TypeScript patterns • System design scenarios.
-
----
-
-## 🗂️ Additional (Optional) Sections
-- � Articles / Writing: (Dev.to / Medium / Blog) – add links.
-- 🎤 Talks / Presentations: (Conference / Meetup if any).
-- 🎓 Certifications: (Cloud / Security / etc.).
-- 💡 Ideas Backlog: (Public roadmap if you want transparency).
-
----
-
-## ✨ Interests & Hobbies
-Reading (fiction + non‑fiction) • Puzzles & problem solving • Open source • Exploring emerging frameworks.
-
----
-
-## 🤝 Connect
-<p>
-  <a href="https://linkedin.com/in/daniel-baravik" target="_blank">LinkedIn</a> •
-  <a href="mailto:danielbaravik1003@gmail.com">Email</a>
+<p align="center">
+  🌐 More projects, context, and contact info on my <a href="https://danielml1003.github.io/portfolio/"><strong>portfolio site</strong></a>.
 </p>
 
-If you're building something exciting or need help validating an idea—reach out.
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=danielml1003&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&hide_border=true&bg_color=00000000" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielml1003&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="165" alt="Top languages" />
+</div>
+
+<br/>
+
+## 🧭 Principles I Work By
+
+> **Readability over premature cleverness** · **Incremental delivery & tight feedback loops** · **Measure what matters** · **Automate repetitive tasks early**
+
+<br/>
+
+## 🤝 Let's Connect
+
+I'm always happy to talk about open source, developer tooling, or a product idea you want to validate.
+
+📫 **[danielbaravik1003@gmail.com](mailto:danielbaravik1003@gmail.com)** · 💼 **[LinkedIn](https://www.linkedin.com/in/daniel-baravik-429b38207)** · 🌐 **[Portfolio](https://danielml1003.github.io/portfolio/)**
+
+<br/>
 
 ---
 
 <div align="center">
-  <strong>Let’s build something meaningful.</strong>
-  <br/>
-  <sub>⭐ If you like my work, consider starring a repo – it helps visibility.</sub>
+  <strong>Let's build something meaningful.</strong><br/>
+  <sub>⭐ If you find my work interesting, a star on a repo goes a long way.</sub>
 </div>
-
----
-
-<details>
-<summary><strong>My Coding Journey</strong></summary>
-
-Started in <strong>2015</strong> with a simple Python <code>Hello, world!</code> and never stopped exploring. Gradually moved from static pages → interactive UIs → scalable backends → cloud & AI exploration. Today I focus on crafting reliable systems that are pleasant for both end‑users and developers.
-
-**Phases:**
-- Foundations: HTML • CSS • JS.
-- Productive Frontend: React + state patterns.
-- Backend Expansion: Node.js, Django, emerging Rust tooling.
-- Quality & Scale: Tests, CI/CD, monitoring, performance.
-- AI & Beyond: Applying intelligent tooling to speed iteration.
-
-Always iterating. Always learning.
-</details>
-
----
-
-<!-- TODO: Add a small screenshot/GIF preview of the portfolio homepage -->
-
-<!-- Feel free to further slim or expand sections based on what resonates with recruiters / collaborators. -->
