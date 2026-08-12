@@ -104,21 +104,6 @@ I love taking ideas from **0 → 1** and refining them with real user feedback. 
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">🎮 ed-forge</h3>
-      <p align="center">
-        <a href="https://github.com/danielml1003/ed-forge"><strong>View Repo »</strong></a>
-      </p>
-      <p>Lightweight desktop game companion: discover games from multiple providers, save them to a personal library, and monitor runtime resources. Built deliberately lean — vanilla JS frontend on a Rust/Tauri backend, with CI running formatting, Clippy, and tests on every push.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust" alt="Rust" />
-        <img src="https://img.shields.io/badge/-Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white" alt="Tauri" />
-        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
       <h3 align="center">🌐 Portfolio Site</h3>
       <p align="center">
         <a href="https://github.com/danielml1003/portfolio"><strong>View Repo »</strong></a> · <a href="https://danielml1003.github.io/portfolio/"><strong>Live »</strong></a>
@@ -129,6 +114,8 @@ I love taking ideas from **0 → 1** and refining them with real user feedback. 
         <img src="https://img.shields.io/badge/-GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white" alt="GitHub Pages" />
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="33%" valign="top">
       <h3 align="center">🎵 Music Genre Classification</h3>
       <p align="center">
