@@ -79,6 +79,19 @@ I love taking ideas from **0 → 1** and refining them with real user feedback. 
 <table>
   <tr>
     <td width="33%" valign="top">
+      <h3 align="center">📋 DevClip</h3>
+      <p align="center">
+        <a href="https://github.com/danielml1003/DevClip"><strong>View Repo »</strong></a> · ⭐ 4
+      </p>
+      <p>Keyboard-first snippet manager for developers. A global hotkey opens a command-palette UI with fuzzy search ranked by relevance, recency, and usage. Local-first SQLite storage, clipboard history, and optional LAN sync — native performance via Tauri, with a fully tested Rust core.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust" alt="Rust" />
+        <img src="https://img.shields.io/badge/-Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white" alt="Tauri" />
+        <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+      </p>
+    </td>
+    <td width="33%" valign="top">
       <h3 align="center">🛒 Shop Saver</h3>
       <p align="center">
         <a href="https://github.com/danielml1003/shop-saver"><strong>View Repo »</strong></a>
@@ -91,11 +104,37 @@ I love taking ideas from **0 → 1** and refining them with real user feedback. 
       </p>
     </td>
     <td width="33%" valign="top">
+      <h3 align="center">🎮 ed-forge</h3>
+      <p align="center">
+        <a href="https://github.com/danielml1003/ed-forge"><strong>View Repo »</strong></a>
+      </p>
+      <p>Lightweight desktop game companion: discover games from multiple providers, save them to a personal library, and monitor runtime resources. Built deliberately lean — vanilla JS frontend on a Rust/Tauri backend, with CI running formatting, Clippy, and tests on every push.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust" alt="Rust" />
+        <img src="https://img.shields.io/badge/-Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white" alt="Tauri" />
+        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">🌐 Portfolio Site</h3>
+      <p align="center">
+        <a href="https://github.com/danielml1003/portfolio"><strong>View Repo »</strong></a> · <a href="https://danielml1003.github.io/portfolio/"><strong>Live »</strong></a>
+      </p>
+      <p>My personal portfolio, designed and built from scratch in TypeScript and deployed on GitHub Pages. Includes a project gallery with context and links, a contact section, and a downloadable resume.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/-GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white" alt="GitHub Pages" />
+      </p>
+    </td>
+    <td width="33%" valign="top">
       <h3 align="center">🎵 Music Genre Classification</h3>
       <p align="center">
         <a href="https://github.com/danielml1003/music-genre-classification"><strong>View Repo »</strong></a>
       </p>
-      <p>Machine-learning exploration for classifying songs by genre. Applying audio feature extraction (MFCC) and benchmarking models to find the best-performing pipeline. Early stage and evolving.</p>
+      <p>Machine-learning exploration for classifying songs by genre. Applying audio feature extraction (MFCC) and benchmarking models to find the best-performing pipeline.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/-Librosa-4B32C3?style=flat-square" alt="Librosa" />
@@ -120,15 +159,6 @@ I love taking ideas from **0 → 1** and refining them with real user feedback. 
 <p align="center">
   🌐 More projects, context, and contact info on my <a href="https://danielml1003.github.io/portfolio/"><strong>portfolio site</strong></a>.
 </p>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danielml1003&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&hide_border=true&bg_color=00000000" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielml1003&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="165" alt="Top languages" />
-</div>
 
 <br/>
 
