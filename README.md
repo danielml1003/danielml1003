@@ -169,6 +169,19 @@ I love taking ideas from **0 → 1** and refining them with real user feedback. 
 
 <br/>
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=danielml1003&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielml1003&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=danielml1003&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak" />
+</div>
+
+<br/>
+
 ## 🧭 Principles I Work By
 
 > **Readability over premature cleverness** · **Incremental delivery & tight feedback loops** · **Measure what matters** · **Automate repetitive tasks early**
