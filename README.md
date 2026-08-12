@@ -171,13 +171,14 @@ I love taking ideas from **0 → 1** and refining them with real user feedback. 
 
 ## 📊 GitHub Stats
 
+<!-- Cards are generated inside this repo by .github/workflows/profile-summary-cards.yml,
+     so they always render — no dependency on external stats services. -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danielml1003&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielml1003&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=danielml1003&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak" />
+  <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="Profile details" />
+  <img src="profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="GitHub stats" />
+  <img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" alt="Repos per language" />
+  <img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="Most commit language" />
+  <img src="profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" alt="Productive time" />
 </div>
 
 <br/>
